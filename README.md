@@ -1,4 +1,6 @@
 # first-repo
 
-this is my
-<br>trial
+this is my first repo.
+<br>
+Author- Dilnawaz
+
